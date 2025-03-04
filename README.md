@@ -1,6 +1,4 @@
-# 中药智选——从0开始的Web开发![0F7C4092](https://github.com/user-attachments/assets/3fb14b96-9bc0-44a4-b5f5-6380190f39ef)
-
-
+# 中药智选——从0开始的Web开发 
 ## 技术路线
 ### 前端技术：
 Vue + Element-Plus + Axios + Vue-Router
