@@ -21,7 +21,10 @@
 替换掉application.yml的 网址和 key 
 ![image](https://github.com/user-attachments/assets/541629f0-8301-4ccd-9f69-31aac09e4a32)
 接着就可以使用用户端的大模型了
-### 4、功能展示
+### 4、运行
+首先运行StartApplication.java
+接着在本地输入localhost:8080/login 就可以进入到我们的网页了
+### 5、功能展示
 ![image](https://github.com/user-attachments/assets/6429bf6f-ed5b-4af9-be18-308f8ede47a5)
 ![image](https://github.com/user-attachments/assets/cf0a7efc-6cf7-4301-92b2-591cee242fb3)
 ![image](https://github.com/user-attachments/assets/4310a5b0-68e1-40c8-99f2-873060575803)
