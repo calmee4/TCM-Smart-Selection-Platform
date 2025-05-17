@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2925f7f1-89d6-401f-b709-b45d5f5c7c7e)# 中药智选——从0开始的Web开发 
+# 中药智选——从0开始的Web开发
 ## 用户使用说明：
 ### 1、配置数据库
 首先先创建mysql数据库，运行文件当前目录下的.sql文件，将数据库导入到自己的数据库中。
